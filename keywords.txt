@@ -1,0 +1,11 @@
+cc0, covid-19, dataset, dengue, latin-america, open-data, zenodo, zika
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
