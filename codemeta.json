@@ -1,22 +1,47 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Evolution of Mosquito-Borne Diseases in Latin America 2015-2024: Database by Country and Disease",
-  "identifier": "10.5281/zenodo.18880833",
-  "url": "https://doi.org/10.5281/zenodo.18880833",
+  "@type": "SoftwareSourceCode",
+  "name": "Dataset on the evolution of mosquito-borne diseases in Latin America and the Caribbean 2015-2024. Includes data on Dengue, Zika, Chikungunya, and Malaria by country (Brazil, Colombia, Mexico, Peru, Argentina, Venezuela and others), with reported case",
+  "description": "Dataset on the evolution of mosquito-borne diseases in Latin America and the Caribbean 2015-2024. Includes data on Dengue, Zika, Chikungunya, and Malaria by country (Brazil, Colombia, Mexico, Peru, Argentina, Venezuela and others), with reported case",
+  "url": "https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun",
+  "codeRepository": "https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "Latin America",
+    "cc0",
+    "covid-19",
+    "dataset",
     "dengue",
-    "Zika",
-    "COVID-19"
-  ]
+    "latin-america",
+    "open-data",
+    "zenodo",
+    "zika"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
