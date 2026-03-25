@@ -1,0 +1,23 @@
+{
+  "title": "Dataset on the evolution of mosquito-borne diseases in Latin America and the Car",
+  "id": "juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-amer",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "covid-19",
+    "dataset",
+    "dengue",
+    "epidemiology",
+    "fair-data",
+    "global-health",
+    "iberoamerica",
+    "infectious-diseases"
+  ],
+  "description": "Dataset on the evolution of mosquito-borne diseases in Latin America and the Caribbean 2015-2024. Includes data on Dengue, Zika, Chikungunya, and Malaria by country (Brazil, Colombia, Mexico, Peru, Argentina, Venezuela and others), with reported case\n\nDOI: https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun\nGitHub: https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
