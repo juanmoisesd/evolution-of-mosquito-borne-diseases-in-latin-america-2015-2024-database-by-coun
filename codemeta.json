@@ -3,24 +3,18 @@
   "@type": "SoftwareSourceCode",
   "name": "Dataset on the evolution of mosquito-borne diseases in Latin America and the Caribbean 2015-2024. In",
   "version": "1.0.0",
-  "identifier": "https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun",
-  "datePublished": "2025",
+  "identifier": "https://juanmoisesd.github.io/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "cc0, citation, covid-19, dataset, dengue, epidemiology, fair-data, global-health, iberoamerica, infectious-diseases, juan-moises-de-la-serna, latam, latin-america, open-data, open-science, orcid, public-health, research, zenodo, zika"
+  ]
 }
