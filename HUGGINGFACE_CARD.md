@@ -1,6 +1,6 @@
 ---
 language:
-  - en
+  - es
 license: cc-by-4.0
 task_categories:
   - tabular-classification
@@ -34,21 +34,16 @@ tags:
 
 # Dataset on the evolution of mosquito-borne diseases in Latin America and the Car
 
-- **DOI:** [https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun](https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun)
-- **GitHub:** [juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun](https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun](https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun) | **GitHub:** [juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun](https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun/files/data.csv")
+# See https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Dataset on the evolution of mosquito-borne diseases in Latin},year={2025},doi={https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun},url={https://github.com/juanmoisesd/evolution-of-mosquito-borne-diseases-in-latin-america-2015-2024-database-by-coun}}
 ```
